@@ -12,7 +12,7 @@ Para executar este projeto em sua máquina local, você precisará de um ambient
 
 1.  **Instale o XAMPP**: Baixe e instale o XAMPP (ou similar) em seu computador.
 
-2.  **Copie os Arquivos**: Copie a pasta inteira do projeto para o diretório `htdocs` dentro da sua instalação do XAMPP (ex: `C:\xampp\htdocs\meu_projeto`).
+2.  **Copie os Arquivos**: Copie a pasta inteira do projeto para o diretório `htdocs` dentro da sua instalação do XAMPP (ex: `C:\xampp\htdocs\trabalhoDois`).
 
 3.  **Inicie os Serviços**: Abra o painel de controle do XAMPP e inicie os módulos "Apache" e "MySQL".
 
@@ -23,11 +23,11 @@ Para executar este projeto em sua máquina local, você precisará de um ambient
     * Copie e cole todo o conteúdo do arquivo `database.sql` e execute o comando. As tabelas `usuarios` e `produtos` serão criadas.
 
 5.  **Acesse o Sistema**:
-    * Abra seu navegador e acesse `http://localhost/nome_da_pasta_do_projeto/login/registrar.php` para criar uma conta.
-    * Após o registro, você será redirecionado para a página de login em `http://localhost/nome_da_pasta_do_projeto/login/login.php`.
+    * Abra seu navegador e acesse `http://localhost/trabalhoDois/login/registrar.php` para criar uma conta.
+    * Após o registro, você será redirecionado para a página de login em `http://localhost/trabalhoDois/login/login.php`.
     * Faça o login para acessar o sistema de gerenciamento de produtos.
 
 ## Link do Vídeo de Demonstração (YouTube)
 
 
-[COLE O LINK DO VÍDEO DO YOUTUBE AQUI]
+[https://youtu.be/hChX0X0dXQY]
